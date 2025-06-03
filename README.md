@@ -8,12 +8,6 @@
   <a href="https://www.linkedin.com/in/jorge-ruiz-lópez-6a0101321/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
 </div>
 
 ###
@@ -35,9 +29,10 @@
 <p align="left">
 I'm Jorge Ruiz López, a Data Science and Engineering student from Murcia, Spain.<br><br>
 - 🔭 I’m currently collaborating as an internal student at the Computer Engineering and Technology Department at the University of Murcia.<br>
-- 📚 I'm currently learning about distributed databases, data pipelines, and AI applications.<br>
+- 📚 I'm currently learning about distributed databases, data pipelines, and AI applications, as well as improving my coding abilities.<br>
 - 🧠 I’m certified in Big Data, C/C++, and Neo4j by institutions like MIT, Coursera, and Neo4j Academy.<br>
-- ⚡ In my free time I enjoy solving algorithmic challenges, writing technical documentation in LaTeX, and contributing to my own Python tools.
+- ⚡ In my free time I enjoy solving algorithmic challenges, learning new languages, and contributing to my own Python tools.<br
+- 👨‍💻 I'm getting started in cybersecurity, and I spend a lot of my free time learning new concepts about it and how to apply new techniques.
 </p>
 
 ###
