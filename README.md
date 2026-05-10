@@ -28,7 +28,6 @@
 
 <p align="left">
 I'm Jorge Ruiz López, a Data Science and Engineering student from Murcia, Spain.<br><br>
-- 🔭 I’m currently collaborating as an internal student at the Computer Engineering and Technology Department at the University of Murcia.<br>
 - 📚 I'm currently learning about distributed databases, data pipelines, and AI applications, as well as improving my coding abilities.<br>
 - 🧠 I’m certified in Big Data, C/C++, and Neo4j by institutions like MIT, Coursera, and Neo4j Academy.<br>
 - ⚡ In my free time I enjoy solving algorithmic challenges, learning new languages, and contributing to my own Python tools.<br>
